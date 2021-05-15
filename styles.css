@@ -1,0 +1,22 @@
+.vh-100{
+    height: 100vh;
+    
+  }
+  
+  .d-flex{
+    display: flex
+  }
+  
+  .main{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .box{
+    flex-direction: column;
+  }
+  
+  .mt-2{
+    margin-top: 1rem;
+  }
